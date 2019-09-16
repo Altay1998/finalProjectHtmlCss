@@ -75,6 +75,12 @@ li{
 .site-navigation li:hover i{
     color:var( --main-white);
 }
+.site-navigation li:first-child{
+    background-color: var(--main-color);
+}
+.site-navigation li:first-child a{
+    color: var(--main-white);
+}
 /*end menu*/
 
 /*start header */
